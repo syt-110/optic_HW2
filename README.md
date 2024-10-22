@@ -1,3 +1,3 @@
 # optic_HW2
-# The exe  is the latest homework
+# The exe file is the latest homework
 #
